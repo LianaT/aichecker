@@ -1,0 +1,16 @@
+[project]
+name = "ai-compliance-checker"
+version = "0.1.0"
+description = "EU AI Act compliance checker using FastAPI and React"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "playwright",
+    "pydantic",
+    "langchain-community",
+    "langchain-openai",
+    "langchain-core",
+    "python-dotenv",
+]

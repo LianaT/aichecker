@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+playwright
+PyPDF2
+pdfplumber
+pydantic
+httpx
+beautifulsoup4
+tiktoken
+openai
+langchain
+langchain-community
+langchain-google-genai
+python-dotenv
